@@ -5,6 +5,7 @@ A collection of links on web-dev, programming, sys-admin, tinkering, iot, and ot
 Have a suggestion? Open an issue!
 
 ## Online Tools
+* [Containerize](https://composerize.com/) - Convert docker run commands to docker-compose scripts
 * [JS Nice](http://jsnice.org/) - JS Deobfuscator
 * RegEx Testing
   * [RegExr](https://regexr.com/)
