@@ -39,6 +39,7 @@ Have a suggestion? Open an issue!
     * [Vuex](https://vuex.vuejs.org/) - State Manager
     * [Vue Loader](https://vue-loader.vuejs.org/) - Including CSS scoping/modules  
   * Generic
+    * [Bundlephobia](https://bundlephobia.com/) - Calculate user download cost of NPM modules
     * [D3.js](https://d3js.org/) - SVG-based drawing for visualization
     * [Dexie](http://dexie.org/docs/) - Wrapper for IndexedDB, etc. Used by Vue-IDB
     * [Moment](https://momentjs.com/) - time/date library
