@@ -28,6 +28,7 @@ Have a suggestion? Open an issue!
   * [React](https://reactjs.org/)
   * [Vue](https://vuejs.org/)
     * [Vue Docs](https://vuejs.org/v2/guide/index.html)
+    * [Awesome Vue](https://github.com/vuejs/awesome-vue) Vue Link Collection
     * [Vue-IDB](https://github.com/ddgll/vue-idb) - backed by [Dexie](http://dexie.org/docs/)
     * [Vuetify](https://vuetifyjs.com/en/getting-started/quick-start)
     * [Vuex](https://vuex.vuejs.org/) - State Manager
