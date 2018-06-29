@@ -11,6 +11,7 @@ Have a suggestion? Open an issue!
   * [RegEx 101](https://regex101.com/)
 * [VectorMagic](https://vectormagic.com/) - Raster to SVG Image Converter
 * [Online MD5](http://onlinemd5.com/) - MD5/SHA1 Hashing
+* [SSL Config Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) - Generate very secure SSL configs for web servers
 * [Swagger Editor](https://swagger.io/tools/swagger-editor/) - Usable online demo w/codegen
 * [XPath/XQuery/XSLT Tester](http://www.xpathtester.com/xpath)
 
@@ -51,6 +52,9 @@ Have a suggestion? Open an issue!
   * [Can I Use...](http://caniuse.com/) - Browser capability repository
   
 ### Back End
-* [Swagger](https://swagger.io/)
-  * [Swagger Docs](https://swagger.io/docs/)
-  * [Swagger Editor](https://swagger.io/tools/swagger-editor/) - Usable online demo w/codegen
+* API
+  * [Swagger](https://swagger.io/)
+    * [Swagger Docs](https://swagger.io/docs/)
+    * [Swagger Editor](https://swagger.io/tools/swagger-editor/) - Usable online demo w/codegen
+* Security
+  * [SSL Config Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) - Generate very secure SSL configs for web servers
