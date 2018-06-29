@@ -10,6 +10,8 @@ Have a suggestion? Open an issue!
 * RegEx Testing
   * [RegExr](https://regexr.com/)
   * [RegEx 101](https://regex101.com/)
+* Web IDEs
+  * [StackBlitz](https://stackblitz.com/) - VSCode as a web page
 * [VectorMagic](https://vectormagic.com/) - Raster to SVG Image Converter
 * [Online MD5](http://onlinemd5.com/) - MD5/SHA1 Hashing
 * [SSL Config Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) - Generate very secure SSL configs for web servers
