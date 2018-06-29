@@ -6,6 +6,9 @@ Have a suggestion? Open an issue!
 
 ## Online Tools
 * [JS Nice](http://jsnice.org/) - JS Deobfuscator
+* RegEx Testing
+  * [RegExr](https://regexr.com/)
+  * [RegEx 101](https://regex101.com/)
 * [VectorMagic](https://vectormagic.com/) - Raster to SVG Image Converter
 * [Online MD5](http://onlinemd5.com/) - MD5/SHA1 Hashing
 * [Swagger Editor](https://swagger.io/tools/swagger-editor/) - Usable online demo w/codegen
