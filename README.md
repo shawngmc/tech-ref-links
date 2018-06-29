@@ -5,8 +5,9 @@ A collection of links on web-dev, programming, sys-admin, tinkering, iot, and ot
 Have a suggestion? Open an issue!
 
 ## Online Tools
+* [JS Nice](http://jsnice.org/) - JS Deobfuscator
 * [VectorMagic](https://vectormagic.com/) - Raster to SVG Image Converter
-* [MD5/SHA1 Hashing](http://onlinemd5.com/)
+* [Online MD5](http://onlinemd5.com/) - MD5/SHA1 Hashing
 * [Swagger Editor](https://swagger.io/tools/swagger-editor/) - Usable online demo w/codegen
 * [XPath/XQuery/XSLT Tester](http://www.xpathtester.com/xpath)
 
