@@ -71,3 +71,10 @@ Have a suggestion? Open an issue!
     * [Swagger Editor](https://swagger.io/tools/swagger-editor/) - Usable online demo w/codegen
 * Security
   * [SSL Config Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) - Generate very secure SSL configs for web servers
+
+## Tech Shopping
+* Surplus Hardware
+  * [McLean Surplus](https://www.ebay.com/str/mcleansurplus)
+  * [HomeLabTech](https://www.homelabtech.com/)
+  * [GearGrabber](https://geargrabber.io)
+  * [LabGopher](https://www.labgopher.com/)
