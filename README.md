@@ -6,13 +6,32 @@ Have a suggestion? Open an issue!
 
 ## Online Tools
 * [Containerize](https://composerize.com/) - Convert docker run commands to docker-compose scripts
+* Diff
+  * [Mergely](https://www.mergely.com/editor)
+* Image Editing
+  * [FA2PNG](http://fa2png.io/) - Convert Font Awesome Icons to PNG
+  * [VectorMagic](https://vectormagic.com/) - Raster to SVG Image Converter
 * [JS Nice](http://jsnice.org/) - JS Deobfuscator
+* JSON
+  * [JSON Diff](http://tlrobinson.net/projects/javascript-fun/jsondiff/)
+  * [JSON Editor Online](http://jsoneditoronline.org/)
+  * [JSON Minify](https://www.cleancss.com/json-minify/)
+  * [JSON Schema](https://jsonschema.net/#/)
+  * [JSON Tree Viewer](https://www.sitepoint.com/demos/online-json-tree-viewer/)
+  * Validators
+   * [JSON Formatter/Validator](https://jsonformatter.curiousconcept.com/)
+   * [JSONLint](https://jsonlint.com/)
 * RegEx Testing
+  * [Debuggex](https://www.debuggex.com/)
   * [RegExr](https://regexr.com/)
   * [RegEx 101](https://regex101.com/)
+* Text
+  * [Unicode Character Map](https://unicode-table.com/en/)
+* Video Tools
+  * [Watch Frame By Frame](http://www.watchframebyframe.com/) - Youtube and Vimeo
 * Web IDEs
   * [StackBlitz](https://stackblitz.com/) - VSCode as a web page
-* [VectorMagic](https://vectormagic.com/) - Raster to SVG Image Converter
+
 * [Online MD5](http://onlinemd5.com/) - MD5/SHA1 Hashing
 * [SSL Config Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) - Generate very secure SSL configs for web servers
 * [Swagger Editor](https://swagger.io/tools/swagger-editor/) - Usable online demo w/codegen
@@ -74,8 +93,35 @@ Have a suggestion? Open an issue!
   * [SSL Config Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) - Generate very secure SSL configs for web servers
 
 ## Tech Shopping
+* Tools
+  * [Apple Refurb Price Tracker](http://www.refurb.me/en-us)
+  * [PC Part Picker](https://pcpartpicker.com)
+* Interesting Suppliers
+  * [Best Buy Outlet](https://www.bestbuy.com/site/electronics/outlet-refurbished-clearance/pcmcat142300050026.c?id=pcmcat142300050026)
+  * [My Digital Discount](https://www.mydigitaldiscount.com/) - Surprisingly good/cheap SSDs, including NVMe
+* Manufacturer Recertified/Clearance/Outlet
+  * Parts
+    * [Antec Clearance](http://store.antec.com/clearance/) - Cases, Power Supplies
+    * [Antec Refurbished](http://store.antec.com/refurbished/) - Cases, Power Supplies
+    * [Corsair Refurbished](https://www.corsair.com/us/en/Categories/Products/Certified-Refurbished/c/Cor_Products_Certified_Refurbished?q=&rawQuery=(inStockFlag_boolean:true%20AND%20isRefurbProduct_boolean:true) - Cases, Power Supplies, Mice, Keyboards, SSDs, Flash Drives, Headsets
+    * [EVGA B-Stock](https://www.evga.com/Products/productlist.aspx?type=8) - Video Cards, Motherboards, Power Sipplies
+    * [Razer Outlet](https://www.razer.com/outlet) - Mice, Keyboards, Headsets, Webcams, Microphones, Speakers, Laptops
+    * [Sandisk Refurbished](http://shop.sandisk.com/store?SiteID=sdiskus&Action=DisplayCategoryProductListPage&categoryID=67550600&resultsperPage=30) - Flash Drives, SD Cards
+  * Systems
+    * [Acer Recertified](https://acerrecertified.com/)
+    * [Acer on eBay](http://stores.ebay.com/acer)
+    * [Apple Refurbished Macs](https://www.apple.com/shop/browse/home/specialdeals/mac)
+    * [Dell Auction](https://www.dellauction.com/)
+    * [Dell Consumer Outlet](http://www.dell.com/learn/us/en/22/campaigns/outlet)
+    * [HP Business Outlet](http://www.hp.com/sbso/buspurchase_refurbished_computing.html)
+    * [Lenovo Outlet](http://outlet.lenovo.com)
 * Surplus Hardware
-  * [McLean Surplus](https://www.ebay.com/str/mcleansurplus)
+  * Northern Virginia
+    * [McLean Surplus](https://www.ebay.com/str/mcleansurplus)
+    * [PC Retro](https://pcretro.com/)
   * [HomeLabTech](https://www.homelabtech.com/)
   * [GearGrabber](https://geargrabber.io)
   * [LabGopher](https://www.labgopher.com/)
+
+## Miscellany
+* [Cmd.to](https://cmd.to/) - a web-based CLI for the internet
