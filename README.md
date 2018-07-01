@@ -129,3 +129,12 @@ Have a suggestion? Open an issue!
 
 ## Miscellany
 * [Cmd.to](https://cmd.to/) - a web-based CLI for the internet
+* [TLDRLegal](https://tldrlegal.com/) - Software Licenses Explained in Plain English
+* Web Status
+  * [Down Detector](http://downdetector.com/)
+  * [Down for Everyone](http://downforeveryoneorjustme.com/)
+  * [Internet Health Report](http://www.internetpulse.net/)
+  * [Internet Storm Center](https://isc.sans.edu/)
+  * [Norse IPViking](http://hp.ipviking.com/)
+  * [Outage Analyzer](http://www.outageanalyzer.com/)
+  * [Outages.org](http://www.outages.org/)
