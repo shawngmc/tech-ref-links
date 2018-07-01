@@ -81,7 +81,10 @@ Have a suggestion? Open an issue!
       * [Browser Compatibility](http://caniuse.com/#feat=css-grid)
       * Bindings
         * [React CSS Grid Layout](https://www.npmjs.com/package/react-css-grid-layout)
-    * [Font Awesome](https://fortawesome.github.io/Font-Awesome/icons/)
+    * Icons
+      * [Font Awesome](https://fortawesome.github.io/Font-Awesome/icons/)
+      * [Icons8](https://icons8.com/) - Large collection of flat, outline icons
+      * [Material Design Icons](https://materialdesignicons.com)
 * Browser
   * [Can I Use...](http://caniuse.com/) - Browser capability repository
   
