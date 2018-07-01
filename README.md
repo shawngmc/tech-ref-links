@@ -5,6 +5,7 @@ A collection of links on web-dev, programming, sys-admin, tinkering, iot, and ot
 Have a suggestion? Open an issue!
 
 ## Online Tools
+* [Adobe Color CC](https://color.adobe.com/create/color-wheel/) - online color wheel
 * [Containerize](https://composerize.com/) - Convert docker run commands to docker-compose scripts
 * Diff
   * [Mergely](https://www.mergely.com/editor)
@@ -31,6 +32,7 @@ Have a suggestion? Open an issue!
 * Video Tools
   * [Watch Frame By Frame](http://www.watchframebyframe.com/) - Youtube and Vimeo
 * Web IDEs
+  * [JSFiddle](http://jsfiddle.net/)
   * [StackBlitz](https://stackblitz.com/) - VSCode as a web page
 
 * [Online MD5](http://onlinemd5.com/) - MD5/SHA1 Hashing
