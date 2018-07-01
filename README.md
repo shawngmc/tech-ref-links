@@ -19,8 +19,8 @@ Have a suggestion? Open an issue!
   * [JSON Schema](https://jsonschema.net/#/)
   * [JSON Tree Viewer](https://www.sitepoint.com/demos/online-json-tree-viewer/)
   * Validators
-   * [JSON Formatter/Validator](https://jsonformatter.curiousconcept.com/)
-   * [JSONLint](https://jsonlint.com/)
+    * [JSON Formatter/Validator](https://jsonformatter.curiousconcept.com/)
+    * [JSONLint](https://jsonlint.com/)
 * RegEx Testing
   * [Debuggex](https://www.debuggex.com/)
   * [RegExr](https://regexr.com/)
