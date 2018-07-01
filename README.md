@@ -13,11 +13,12 @@ Have a suggestion? Open an issue!
   * [VectorMagic](https://vectormagic.com/) - Raster to SVG Image Converter
 * [JS Nice](http://jsnice.org/) - JS Deobfuscator
 * JSON
-  * [JSON Diff](http://tlrobinson.net/projects/javascript-fun/jsondiff/)
-  * [JSON Editor Online](http://jsoneditoronline.org/)
-  * [JSON Minify](https://www.cleancss.com/json-minify/)
-  * [JSON Schema](https://jsonschema.net/#/)
-  * [JSON Tree Viewer](https://www.sitepoint.com/demos/online-json-tree-viewer/)
+  * [Diff](http://tlrobinson.net/projects/javascript-fun/jsondiff/)
+  * [Editor](http://jsoneditoronline.org/)
+  * [Minify](https://www.cleancss.com/json-minify/)
+  * [Pretty Print(http://jsonprettyprint.com/)
+  * [Schema](https://jsonschema.net/#/)
+  * [Tree Viewer](https://www.sitepoint.com/demos/online-json-tree-viewer/)
   * Validators
     * [JSON Formatter/Validator](https://jsonformatter.curiousconcept.com/)
     * [JSONLint](https://jsonlint.com/)
