@@ -95,6 +95,13 @@ Have a suggestion? Open an issue!
   * [Swagger](https://swagger.io/)
     * [Swagger Docs](https://swagger.io/docs/)
     * [Swagger Editor](https://swagger.io/tools/swagger-editor/) - Usable online demo w/codegen
+* Containers
+  * Misc.
+    * [Running Java in Docker/Kubernetes](https://developers.redhat.com/blog/2017/03/14/java-inside-docker/)
+    * [Why top and free don't work as expected in containers](https://fabiokung.com/2014/03/13/memory-inside-linux-containers/)
+* Message Queuing
+  * [MQ Shootout](https://softwaremill.com/mqperf/) - Artemis looks pretty good...
+  * [History of ActiveMQ, Apollo and Artemis](https://stackoverflow.com/questions/27666943/activemq-vs-apollo-vs-kafka)
 * Security
   * [SSL Config Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) - Generate very secure SSL configs for web servers
 
