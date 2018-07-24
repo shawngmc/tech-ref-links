@@ -8,7 +8,7 @@ Have a suggestion? Open an issue!
 * [Adobe Color CC](https://color.adobe.com/create/color-wheel/) - online color wheel
 * Containers
   * [Containerize](https://composerize.com/) - Convert docker run commands to docker-compose scripts
-  * [Play With Docker](https://play-with-docker.com)
+  * [Play With Docker](https://labs.play-with-docker.com) - Test docker configs remotely in-browser for free
 * Diff
   * [Mergely](https://www.mergely.com/editor)
 * Image Editing
