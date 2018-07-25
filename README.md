@@ -29,6 +29,8 @@ Have a suggestion? Open an issue!
   * [Debuggex](https://www.debuggex.com/)
   * [RegExr](https://regexr.com/)
   * [RegEx 101](https://regex101.com/)
+* REPLs
+  * [Repl.it](https://repl.it) - REPLs for a ton of languages, including Node.JS, Java, Python, C#, C++, Swift, Lua - with web embeds
 * Text
   * [Unicode Character Map](https://unicode-table.com/en/)
 * Video Tools
