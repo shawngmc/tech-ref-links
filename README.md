@@ -144,6 +144,9 @@ Have a suggestion? Open an issue!
 ## Miscellany
 * [Cmd.to](https://cmd.to/) - a web-based CLI for the internet
 * [TLDRLegal](https://tldrlegal.com/) - Software Licenses Explained in Plain English
+* Geek Humor
+  * [/dev/null as a service](https://devnull-as-a-service.com/) - /dev/null in the cloud, containerized, on android
+  * [Rockstar](https://github.com/dylanbeattie/rockstar) - Why be a rockstar developer when you can be a Rockstar developer?
 * Web Status
   * [Down Detector](http://downdetector.com/)
   * [Down for Everyone](http://downforeveryoneorjustme.com/)
