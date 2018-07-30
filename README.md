@@ -38,6 +38,7 @@ Have a suggestion? Open an issue!
 * Web IDEs
   * [JSFiddle](http://jsfiddle.net/)
   * [StackBlitz](https://stackblitz.com/) - VSCode as a web page
+  * [VVVeb.js](http://www.vvveb.com/vvvebjs/editor.html) - Bootstrap 4 visual designer
 
 * [Online MD5](http://onlinemd5.com/) - MD5/SHA1 Hashing
 * [SSL Config Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) - Generate very secure SSL configs for web servers
