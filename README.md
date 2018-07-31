@@ -111,6 +111,10 @@ Have a suggestion? Open an issue!
 * Security
   * [SSL Config Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) - Generate very secure SSL configs for web servers
 
+## OS
+### Linux
+* [Secure Erase an SSD](https://www.stevenmaude.co.uk/posts/securely-erasing-frozen-hard-disks-with-hdparm)
+
 ## Tech Shopping
 * Tools
   * [Apple Refurb Price Tracker](http://www.refurb.me/en-us)
