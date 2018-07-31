@@ -19,7 +19,7 @@ Have a suggestion? Open an issue!
   * [Diff](http://tlrobinson.net/projects/javascript-fun/jsondiff/)
   * [Editor](http://jsoneditoronline.org/)
   * [Minify](https://www.cleancss.com/json-minify/)
-  * [Pretty Print(http://jsonprettyprint.com/)
+  * [Pretty Print](http://jsonprettyprint.com/)
   * [Schema](https://jsonschema.net/#/)
   * [Tree Viewer](https://www.sitepoint.com/demos/online-json-tree-viewer/)
   * Validators
