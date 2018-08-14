@@ -146,6 +146,20 @@ Have a suggestion? Open an issue!
   * [GearGrabber](https://geargrabber.io)
   * [LabGopher](https://www.labgopher.com/)
 
+## Material / Chemical Science
+* 3D Printing
+* Materials
+  * Aerogel - a lighter-than-air solid material that is stronger-than-steel (though fragile)
+    * [Buy Aerogel](http://www.buyaerogel.com/)
+    * [What is an Aerogel?](http://www.aerogel.org/?p=3)
+  * Plastics
+    * [InstaMorph](https://www.instamorph.com/) - plastic pellets that, when heated in water, are moldable like clay - then, when cool, are a hard plastic. Does not expire; can reheat/reuse.
+    * [Sugru](https://sugru.com/) - a moldable plastic that chemically sets shortly after being exposed to air. Requires refrigeration, expires, cannot reheat/reuse.
+* Chemicals
+  * [P&G Purifier of Water](https://www.cdc.gov/safewater/flocculant-filtration.html) A chemical packet that - when used with two large buckets and a cloth filter - can purify 10 gallons of water.
+  * PolyGlu [demo vid](https://www.youtube.com/watch?v=lu84eDZGFIk - a soybean-based coagulant to help purify water.
+
+
 ## Miscellany
 * [Cmd.to](https://cmd.to/) - a web-based CLI for the internet
 * [TLDRLegal](https://tldrlegal.com/) - Software Licenses Explained in Plain English
