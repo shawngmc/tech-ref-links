@@ -118,6 +118,7 @@ Have a suggestion? Open an issue!
 ## Tech Shopping
 * Tools
   * [Apple Refurb Price Tracker](http://www.refurb.me/en-us)
+  * [Logical Increments](http://www.logicalincrements.com/) - a hierarchal list of parts and average costs
   * [PC Part Picker](https://pcpartpicker.com)
 * Interesting Suppliers
   * [Best Buy Outlet](https://www.bestbuy.com/site/electronics/outlet-refurbished-clearance/pcmcat142300050026.c?id=pcmcat142300050026)
