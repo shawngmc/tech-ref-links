@@ -120,6 +120,9 @@ Have a suggestion? Open an issue!
   * [Apple Refurb Price Tracker](http://www.refurb.me/en-us)
   * [Logical Increments](http://www.logicalincrements.com/) - a hierarchal list of parts and average costs
   * [PC Part Picker](https://pcpartpicker.com)
+  * Samsung B-Die - Best overclocking on Ryzen (3200@C14 or better)
+    * [B-Die Finder](https://benzhaomin.github.io/bdiefinder/)
+    * [Master B-Die List](https://www.hardwareluxx.de/community/f13/die-ultimative-hardwareluxx-samsung-8gb-b-die-liste-alle-hersteller-10-08-18-a-1161530.html)
 * Interesting Suppliers
   * [Best Buy Outlet](https://www.bestbuy.com/site/electronics/outlet-refurbished-clearance/pcmcat142300050026.c?id=pcmcat142300050026)
   * [My Digital Discount](https://www.mydigitaldiscount.com/) - Surprisingly good/cheap SSDs, including NVMe
