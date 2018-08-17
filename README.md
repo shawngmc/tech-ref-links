@@ -72,6 +72,7 @@ Have a suggestion? Open an issue!
     * [Dexie](http://dexie.org/docs/) - Wrapper for IndexedDB, etc. Used by Vue-IDB
     * [Moment](https://momentjs.com/) - time/date library
     * [Lodash](https://lodash.com/docs) - Array/Object manipulation
+    * [Workbox](https://developers.google.com/web/tools/workbox/) - Google-backed Service Worker tooling with multiple caching strategies
 * Design
   * [Bootstrap](http://getbootstrap.com/)
     * [Angular Directives for Bootstrap](https://angular-ui.github.io/bootstrap/)
@@ -95,6 +96,13 @@ Have a suggestion? Open an issue!
       * [Material Design Icons](https://materialdesignicons.com)
 * Browser
   * [Can I Use...](http://caniuse.com/) - Browser capability repository
+  * Service Workers
+    * [Serviceworke.rs](https://serviceworke.rs/) - Mozilla's playbook of common service worker strategies
+    * [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/) - Google's treatise on Service Worker planning
+    * [Browser Version Behavior](https://stackoverflow.com/questions/38843970/service-worker-javascript-update-frequency-every-24-hours/38854905#38854905)
+    * [Is Your Serviceworker Ready?](https://jakearchibald.github.io/isserviceworkerready/) - Browser/Feature Guide
+    * [HTTP Caching and Service Workers](https://jakearchibald.com/2016/caching-best-practices/#a-service-worker-can-extend-the-life-of-these-bugs)
+    * [Workbox](https://developers.google.com/web/tools/workbox/) - Google-backed Service Worker tooling with multiple caching strategies
   
 ### Back End
 * API
@@ -170,6 +178,9 @@ Have a suggestion? Open an issue!
 * Geek Humor
   * [/dev/null as a service](https://devnull-as-a-service.com/) - /dev/null in the cloud, containerized, on android
   * [Rockstar](https://github.com/dylanbeattie/rockstar) - Why be a rockstar developer when you can be a Rockstar developer?
+* Geek Bloggers
+  * [Jake Archibald](https://jakearchibald.com/) - Web Standard Developer at Google
+  * [Coding Horror](http://www.codinghorror.com/) - Blog of Jeff Atwood, developer of StackOverflow
 * Web Status
   * [Down Detector](http://downdetector.com/)
   * [Down for Everyone](http://downforeveryoneorjustme.com/)
