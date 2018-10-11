@@ -158,6 +158,10 @@ Have a suggestion? Open an issue!
   * [GearGrabber](https://geargrabber.io)
   * [LabGopher](https://www.labgopher.com/)
 
+## Security
+### Hardware
+* [Sandsifter](https://github.com/xoreaxeaxeax/sandsifter) - a tool to scan for processor hidden instuctions and flaws; see [whitepaper](https://github.com/xoreaxeaxeax/sandsifter/blob/master/references/domas_breaking_the_x86_isa_wp.pdf)
+
 ## Material / Chemical Science
 * 3D Printing
 * Materials
