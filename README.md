@@ -37,6 +37,7 @@ Have a suggestion? Open an issue!
   * [Watch Frame By Frame](http://www.watchframebyframe.com/) - Youtube and Vimeo
 * Web IDEs
   * [JSFiddle](http://jsfiddle.net/)
+  * [Shadertoy](https://www.shadertoy.com/) - Write shaders in a web page!
   * [StackBlitz](https://stackblitz.com/) - VSCode as a web page
   * [VVVeb.js](http://www.vvveb.com/vvvebjs/editor.html) - Bootstrap 4 visual designer
 
