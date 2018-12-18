@@ -13,6 +13,7 @@ Have a suggestion? Open an issue!
   * [Mergely](https://www.mergely.com/editor)
 * Image Editing
   * [FA2PNG](http://fa2png.io/) - Convert Font Awesome Icons to PNG
+  * [Remove.bg](http://remove.bg) - Remove the background from any image
   * [VectorMagic](https://vectormagic.com/) - Raster to SVG Image Converter
 * [JS Nice](http://jsnice.org/) - JS Deobfuscator
 * JSON
