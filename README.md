@@ -159,6 +159,12 @@ Have a suggestion? Open an issue!
   * [HomeLabTech](https://www.homelabtech.com/)
   * [GearGrabber](https://geargrabber.io)
   * [LabGopher](https://www.labgopher.com/)
+ * Model Comparison/Reference
+   * Chromebooks
+     * [StarryHope](https://www.starryhope.com/chromebooks/chromebook-comparison-chart/) - details is far better than the search alone
+   * Phones
+     * [GSM Arena](https://www.gsmarena.com/)
+     * [Phone Arena](https://www.phonearena.com/)
 
 ## Security
 ### Hardware
