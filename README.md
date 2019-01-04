@@ -48,6 +48,13 @@ Have a suggestion? Open an issue!
 * [XPath/XQuery/XSLT Tester](http://www.xpathtester.com/xpath)
 
 ## Web Development
+### General
+* [12Factor](https://12factor.net) - General SaaS design principals
+* API
+  * [Swagger](https://swagger.io/) - API definition language, can generate documentation, Test UI, server skeletons and client libraries
+    * [Swagger Docs](https://swagger.io/docs/)
+    * [Swagger Editor](https://swagger.io/tools/swagger-editor/) - Usable online demo w/codegen
+
 ### Front End
 * Javascript
   * [Angular 1.x](https://angularjs.com/)
@@ -107,10 +114,6 @@ Have a suggestion? Open an issue!
     * [Workbox](https://developers.google.com/web/tools/workbox/) - Google-backed Service Worker tooling with multiple caching strategies
   
 ### Back End
-* API
-  * [Swagger](https://swagger.io/)
-    * [Swagger Docs](https://swagger.io/docs/)
-    * [Swagger Editor](https://swagger.io/tools/swagger-editor/) - Usable online demo w/codegen
 * Containers
   * Misc.
     * [Running Java in Docker/Kubernetes](https://developers.redhat.com/blog/2017/03/14/java-inside-docker/)
