@@ -32,6 +32,9 @@ Have a suggestion? Open an issue!
   * [RegEx 101](https://regex101.com/)
 * REPLs
   * [Repl.it](https://repl.it) - REPLs for a ton of languages, including Node.JS, Java, Python, C#, C++, Swift, Lua - with web embeds
+* Software Package Management
+  * [Ninite](https://ninite.com) - Windows FOSS installation tool
+  * [Macapps.link](https://macapps.link/en) - Mac FOSS installation tool
 * Text
   * [Unicode Character Map](https://unicode-table.com/en/)
 * Video Tools
