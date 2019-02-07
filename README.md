@@ -6,6 +6,9 @@ Have a suggestion? Open an issue!
 
 ## Online Tools
 * [Adobe Color CC](https://color.adobe.com/create/color-wheel/) - online color wheel
+* Config Generators
+  * [Crontab Guru](https://crontab.guru/)
+  * [SSL Config Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) - Generate very secure SSL configs for web servers
 * Containers
   * [Containerize](https://composerize.com/) - Convert docker run commands to docker-compose scripts
   * [Play With Docker](https://labs.play-with-docker.com) - Test docker configs remotely in-browser for free
@@ -46,7 +49,6 @@ Have a suggestion? Open an issue!
   * [VVVeb.js](http://www.vvveb.com/vvvebjs/editor.html) - Bootstrap 4 visual designer
 
 * [Online MD5](http://onlinemd5.com/) - MD5/SHA1 Hashing
-* [SSL Config Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) - Generate very secure SSL configs for web servers
 * [Swagger Editor](https://swagger.io/tools/swagger-editor/) - Usable online demo w/codegen
 * [XPath/XQuery/XSLT Tester](http://www.xpathtester.com/xpath)
 
@@ -146,7 +148,7 @@ Have a suggestion? Open an issue!
   * Parts
     * [Antec Clearance](http://store.antec.com/clearance/) - Cases, Power Supplies
     * [Antec Refurbished](http://store.antec.com/refurbished/) - Cases, Power Supplies
-    * [Corsair Refurbished](https://www.corsair.com/us/en/Categories/Products/Certified-Refurbished/c/Cor_Products_Certified_Refurbished?q=&rawQuery=(inStockFlag_boolean:true%20AND%20isRefurbProduct_boolean:true) - Cases, Power Supplies, Mice, Keyboards, SSDs, Flash Drives, Headsets
+    * [Corsair Refurbished](https://www.corsair.com/us/en/Categories/Products/Certified-Refurbished/c/Cor_Products_Certified_Refurbished) - Cases, Power Supplies, Mice, Keyboards, SSDs, Flash Drives, Headsets
     * [EVGA B-Stock](https://www.evga.com/Products/productlist.aspx?type=8) - Video Cards, Motherboards, Power Sipplies
     * [Razer Outlet](https://www.razer.com/outlet) - Mice, Keyboards, Headsets, Webcams, Microphones, Speakers, Laptops
     * [Sandisk Refurbished](http://shop.sandisk.com/store?SiteID=sdiskus&Action=DisplayCategoryProductListPage&categoryID=67550600&resultsperPage=30) - Flash Drives, SD Cards
@@ -188,7 +190,7 @@ Have a suggestion? Open an issue!
     * [Worbla](https://www.worbla.com/) - Thermoplastics, primarily for artists and theater, but many differentt types available.
 * Chemicals
   * [P&G Purifier of Water](https://www.cdc.gov/safewater/flocculant-filtration.html) A chemical packet that - when used with two large buckets and a cloth filter - can purify 10 gallons of water.
-  * PolyGlu [demo vid](https://www.youtube.com/watch?v=lu84eDZGFIk - a soybean-based coagulant to help purify water.
+  * PolyGlu [demo vid](https://www.youtube.com/watch?v=lu84eDZGFIk) - a soybean-based coagulant to help purify water.
 
 
 ## Miscellany
