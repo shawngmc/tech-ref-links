@@ -12,6 +12,10 @@ Have a suggestion? Open an issue!
 * Containers
   * [Containerize](https://composerize.com/) - Convert docker run commands to docker-compose scripts
   * [Play With Docker](https://labs.play-with-docker.com) - Test docker configs remotely in-browser for free
+* CSS
+  * Flexbox
+    * [How to Center in CSS](http://howtocenterincss.com)
+    * [Flexbox Generator](https://loading.io/flexbox/)
 * Diff
   * [Mergely](https://www.mergely.com/editor)
 * Image Editing
@@ -104,6 +108,8 @@ Have a suggestion? Open an issue!
       * [Browser Compatibility](http://caniuse.com/#feat=css-grid)
       * Bindings
         * [React CSS Grid Layout](https://www.npmjs.com/package/react-css-grid-layout)
+    * CSS Flexbox
+      * [Esay Scrollpane Example](https://medium.com/@stephenbunch/how-to-make-a-scrollable-container-with-dynamic-height-using-flexbox-5914a26ae336)
     * Icons
       * [Font Awesome](https://fortawesome.github.io/Font-Awesome/icons/)
       * [Icons8](https://icons8.com/) - Large collection of flat, outline icons
