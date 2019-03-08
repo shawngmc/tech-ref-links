@@ -98,6 +98,8 @@ Have a suggestion? Open an issue!
   * [Material Design](https://material.io)
     * [Material Design Icons](https://materialdesignicons.com)
     * [Vuetify](https://vuetifyjs.com/en/getting-started/quick-start) for Vue
+  * Accessibility
+    * [Color Blindness Simulation](https://www.reddit.com/r/dataisbeautiful/comments/ayoeam/simulation_of_different_levels_of_3_types_of/)
   * Generic
     * CSS Grid
       * [Intro](https://www.mozilla.org/en-US/developer/css-grid)
