@@ -206,6 +206,8 @@ Have a suggestion? Open an issue!
 * [TLDRLegal](https://tldrlegal.com/) - Software Licenses Explained in Plain English
 * Geek Humor
   * [/dev/null as a service](https://devnull-as-a-service.com/) - /dev/null in the cloud, containerized, on android
+  * [GeekTyper](http://geektyper.com)
+  * [HackerTyper](http://hackertyper.com)
   * [Rockstar](https://github.com/dylanbeattie/rockstar) - Why be a rockstar developer when you can be a Rockstar developer?
 * Geek Bloggers
   * [Jake Archibald](https://jakearchibald.com/) - Web Standard Developer at Google
