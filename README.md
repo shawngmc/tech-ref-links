@@ -196,6 +196,7 @@ Have a suggestion? Open an issue!
     * [InstaMorph](https://www.instamorph.com/) - plastic pellets that, when heated in water, are moldable like clay - then, when cool, are a hard plastic. Does not expire; can reheat/reuse.
     * [Sugru](https://sugru.com/) - a moldable plastic that chemically sets shortly after being exposed to air. Requires refrigeration, expires, cannot reheat/reuse.
     * [Worbla](https://www.worbla.com/) - Thermoplastics, primarily for artists and theater, but many differentt types available.
+  * [ALON](http://www.surmet.com/technology/alon-optical-ceramics/) - Transparent Aluminum (like from Star Trek).... oh, also bulletproof!
 * Chemicals
   * [P&G Purifier of Water](https://www.cdc.gov/safewater/flocculant-filtration.html) A chemical packet that - when used with two large buckets and a cloth filter - can purify 10 gallons of water.
   * PolyGlu [demo vid](https://www.youtube.com/watch?v=lu84eDZGFIk) - a soybean-based coagulant to help purify water.
