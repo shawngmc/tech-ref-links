@@ -197,6 +197,9 @@ Have a suggestion? Open an issue!
     * [Sugru](https://sugru.com/) - a moldable plastic that chemically sets shortly after being exposed to air. Requires refrigeration, expires, cannot reheat/reuse.
     * [Worbla](https://www.worbla.com/) - Thermoplastics, primarily for artists and theater, but many differentt types available.
   * [ALON](http://www.surmet.com/technology/alon-optical-ceramics/) - Transparent Aluminum (like from Star Trek).... oh, also bulletproof!
+  * De-lignified wood - removing lignin from wood via hydrogen peroxide makes a material that has the tensile strength of steel, can be transparent, and has impressive heat-management properties
+    * [Heat Management](https://www.newscientist.com/article/2204442-high-tech-wood-could-keep-homes-cool-by-reflecting-the-suns-rays/)
+    * [Transparency](https://www.newscientist.com/article/2198126-windows-made-of-transparent-wood-could-help-keep-buildings-warm/)
 * Chemicals
   * [P&G Purifier of Water](https://www.cdc.gov/safewater/flocculant-filtration.html) A chemical packet that - when used with two large buckets and a cloth filter - can purify 10 gallons of water.
   * PolyGlu [demo vid](https://www.youtube.com/watch?v=lu84eDZGFIk) - a soybean-based coagulant to help purify water.
