@@ -134,6 +134,8 @@ Have a suggestion? Open an issue!
 * Message Queuing
   * [MQ Shootout](https://softwaremill.com/mqperf/) - Artemis looks pretty good...
   * [History of ActiveMQ, Apollo and Artemis](https://stackoverflow.com/questions/27666943/activemq-vs-apollo-vs-kafka)
+  * NiFi
+    * [Monitor an S3 Bucket for files](https://adamlamar.github.io/2016-01-30-monitoring-an-s3-bucket-in-apache-nifi/) 
 * Security
   * [SSL Config Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) - Generate very secure SSL configs for web servers
 
