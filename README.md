@@ -131,6 +131,7 @@ Have a suggestion? Open an issue!
   * Misc.
     * [Running Java in Docker/Kubernetes](https://developers.redhat.com/blog/2017/03/14/java-inside-docker/)
     * [Why top and free don't work as expected in containers](https://fabiokung.com/2014/03/13/memory-inside-linux-containers/)
+    * [Debugging Containers that fail on start](https://medium.com/@pimterry/5-ways-to-debug-an-exploding-docker-container-4f729e2c0aa8)
 * Message Queuing
   * [MQ Shootout](https://softwaremill.com/mqperf/) - Artemis looks pretty good...
   * [History of ActiveMQ, Apollo and Artemis](https://stackoverflow.com/questions/27666943/activemq-vs-apollo-vs-kafka)
