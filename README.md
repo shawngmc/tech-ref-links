@@ -138,6 +138,7 @@ Have a suggestion? Open an issue!
     * [Monitor an S3 Bucket for files](https://adamlamar.github.io/2016-01-30-monitoring-an-s3-bucket-in-apache-nifi/) 
 * Javascript
   * [NPM-Check](https://www.npmjs.com/package/npm-check) - easy unused/outdated package scan. run w/o install via npx npm-check -u
+  * [Stop using default exports!](https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/)
 * Security
   * [SSL Config Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) - Generate very secure SSL configs for web servers
 
