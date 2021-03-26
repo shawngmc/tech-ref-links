@@ -234,3 +234,4 @@ Have a suggestion? Open an issue!
 * MTG Tools
   * [Dawnglare](https://mtg.dawnglare.com/?p=viz) Shows 'money cards' to watch for in each set
   * [MTG Stocks](https://www.mtgstocks.com/) Can show expected value of a pack from a set
+  * [What's in Standard?](https://whatsinstandard.com/) Shows current sets in standard and rotation dates
