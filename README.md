@@ -231,3 +231,6 @@ Have a suggestion? Open an issue!
   * [Norse IPViking](http://hp.ipviking.com/)
   * [Outage Analyzer](http://www.outageanalyzer.com/)
   * [Outages.org](http://www.outages.org/)
+* MTG Tools
+  * [Dawnglare](https://mtg.dawnglare.com/?p=viz) Shows 'money cards' to watch for in each set
+  * [MTG Stocks](https://www.mtgstocks.com/) Can show expected value of a pack from a set
