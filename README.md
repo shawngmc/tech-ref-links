@@ -136,31 +136,31 @@ Have a suggestion? Open an issue!
 
 ### Shared
 * Javascript Libraries
- * Flush out the Standard Library
-   * [Bluebird](http://bluebirdjs.com/docs/getting-started.html) - An improved Promise implementation with easy wrappers and multi-promise operations
-   * [Lodash](https://lodash.com/docs) - Array/Object manipulation
-   * [Moment](https://momentjs.com/) - time/date library
-   * [Node-fetch](https://www.npmjs.com/package/node-fetch) - A Node.js polyfill to add the browser [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) to node.js - no more changing code, no more request.js, promise native.
- * Make Progressive Web Apps
-   * [Dexie](http://dexie.org/docs/) - Wrapper for IndexedDB, etc. Used by Vue-IDB
-   * [Workbox](https://developers.google.com/web/tools/workbox/) - Google-backed Service Worker tooling with multiple caching strategies
- * Make CLI Tools
-   * [blessed](https://github.com/chjj/blessed) - curses-like windowing UI on the terminal
-   * [boxen](https://github.com/sindresorhus/boxen) - easily draw CLI boxes that fit text
-   * [cli](https://www.npmjs.com/package/cli) - Simple tool for arg parsing, fatal error management, progress bars, and more.
-   * [cli-table3](https://github.com/cli-table/cli-table3) - Make formatted tables
-   * [inquirer](https://www.npmjs.com/package/inquirer) - Better user answer prompting
-   * [ora](https://github.com/sindresorhus/ora) - A pretty spinner
-   * [shelljs](https://github.com/shelljs/shelljs) - JS-native unix command replacements (sed, awk, grep, and more) - swap out unix commands without portability issues
-   * [sudo-block](https://github.com/sindresorhus/sudo-block) - Prevent users from running your app as sudo
-   * [terminal-link](https://github.com/sindresorhus/terminal-link) - Make clickable links in terminals that support them, and put the URL in parens if not.
-   * [update-notifier](https://github.com/yeoman/update-notifier) - Inform a user that there are updates available using background checks
- * Manage packages
-   * [Bundlephobia](https://bundlephobia.com/) - Calculate user download cost of NPM modules
-   * [NPM-Check](https://www.npmjs.com/package/npm-check) - easy unused/outdated package scan. run w/o install via npx npm-check -u
-   * [Stop using default exports!](https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/)
- * Misc.   
-   * [D3.js](https://d3js.org/) - SVG-based drawing for visualization
+  * Flush out the Standard Library
+    * [Bluebird](http://bluebirdjs.com/docs/getting-started.html) - An improved Promise implementation with easy wrappers and multi-promise operations
+    * [Lodash](https://lodash.com/docs) - Array/Object manipulation
+    * [Moment](https://momentjs.com/) - time/date library
+    * [Node-fetch](https://www.npmjs.com/package/node-fetch) - A Node.js polyfill to add the browser [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) to node.js - no more changing code, no more request.js, promise native. 
+  * Make Progressive Web Apps 
+    * [Dexie](http://dexie.org/docs/) - Wrapper for IndexedDB, etc. Used by Vue-IDB
+    * [Workbox](https://developers.google.com/web/tools/workbox/) - Google-backed Service Worker tooling with multiple caching strategies
+  * Make CLI Tools
+    * [blessed](https://github.com/chjj/blessed) - curses-like windowing UI on the terminal
+    * [boxen](https://github.com/sindresorhus/boxen) - easily draw CLI boxes that fit text
+    * [cli](https://www.npmjs.com/package/cli) - Simple tool for arg parsing, fatal error management, progress bars, and more.
+    * [cli-table3](https://github.com/cli-table/cli-table3) - Make formatted tables
+    * [inquirer](https://www.npmjs.com/package/inquirer) - Better user answer prompting
+    * [ora](https://github.com/sindresorhus/ora) - A pretty spinner
+    * [shelljs](https://github.com/shelljs/shelljs) - JS-native unix command replacements (sed, awk, grep, and more) - swap out unix commands without portability issues
+    * [sudo-block](https://github.com/sindresorhus/sudo-block) - Prevent users from running your app as sudo
+    * [terminal-link](https://github.com/sindresorhus/terminal-link) - Make clickable links in terminals that support them, and put the URL in parens if not.
+    * [update-notifier](https://github.com/yeoman/update-notifier) - Inform a user that there are updates available using background checks
+  * Manage packages
+    * [Bundlephobia](https://bundlephobia.com/) - Calculate user download cost of NPM modules
+    * [NPM-Check](https://www.npmjs.com/package/npm-check) - easy unused/outdated package scan. run w/o install via npx npm-check -u
+    * [Stop using default exports!](https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/)
+  * Misc.   
+    * [D3.js](https://d3js.org/) - SVG-based drawing for visualization
 
 ## OS
 ### Linux
