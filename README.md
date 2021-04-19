@@ -159,8 +159,25 @@ Have a suggestion? Open an issue!
     * [Bundlephobia](https://bundlephobia.com/) - Calculate user download cost of NPM modules
     * [NPM-Check](https://www.npmjs.com/package/npm-check) - easy unused/outdated package scan. run w/o install via npx npm-check -u
     * [Stop using default exports!](https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/)
+  * Interact with common services
+    * Git/GitHub
+      * [Isomorphic Git](https://github.com/isomorphic-git/isomorphic-git) - Work with git repos; aims for 100% drop-in git compatibility
+      * [gh-home](https://github.com/sindresorhus/gh-home) - Go to the homepage of the git repo your working dir is in
+      * [js-git](https://github.com/creationix/js-git) - Work with git repos
+      * [OctoKit](https://github.com/octokit/octokit.js) - Interact with GitHub
+  * Work with file formats
+    * [Node-archiver](https://github.com/archiverjs/node-archiver) - Manipulate TAR and ZIP archives
+    * [PDFKit](https://github.com/foliojs/pdfkit) - Make PDFs
+    * [Sheetsjs js-xlsx](https://github.com/SheetJS/sheetjs) - Parse common spreadsheet formats
+  * Test Things
+    * [Faker.js](https://github.com/Marak/Faker.js) - Generate fake data fast
+    * [http-fake-backend](https://github.com/micromata/http-fake-backend) - Make a fake HTTP server based on a set of rules
   * Misc.   
+    * [Alex](https://github.com/get-alex/alex) - Spellcheck, but for insensitive language (race, religion, gender, etc.)
     * [D3.js](https://d3js.org/) - SVG-based drawing for visualization
+    * [Lunr](https://lunrjs.com/) - Like Solr in pure JS.
+    * [StegCloak](https://github.com/kurolabs/stegcloak) - Hide password-protected messages in non-printable characters!
+    * [UUID](https://www.npmjs.com/package/uuid) - Make proper UUIDs - v4 is the most common.
 
 ## OS
 ### Linux
