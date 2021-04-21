@@ -173,6 +173,7 @@ Have a suggestion? Open an issue!
     * [Faker.js](https://github.com/Marak/Faker.js) - Generate fake data fast
     * [http-fake-backend](https://github.com/micromata/http-fake-backend) - Make a fake HTTP server based on a set of rules
   * Cool NPM ecosystem tools
+    * [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Get the 'cost' for each module. `npx cost-of-module`
     * [npkill](https://npkill.js.org/) - Search for and kill node_modules folders; `npx npkill`
     * [standard](https://github.com/standard/standard) - A simple, no-config JS linter using eslint under the hood. `npx standard` to check, `npx standard -fix` to autofix
     * [trymodule](https://github.com/victorb/trymodule) - Test a npm module in a reply from the CLI `npx trymodule MODULE_NAME`
