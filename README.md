@@ -172,6 +172,10 @@ Have a suggestion? Open an issue!
   * Test Things
     * [Faker.js](https://github.com/Marak/Faker.js) - Generate fake data fast
     * [http-fake-backend](https://github.com/micromata/http-fake-backend) - Make a fake HTTP server based on a set of rules
+  * Cool NPM ecosystem tools
+    * [npkill](https://npkill.js.org/) - Search for and kill node_modules folders; `npx npkill`
+    * [standard](https://github.com/standard/standard) - A simple, no-config JS linter using eslint under the hood. `npx standard` to check, `npx standard -fix` to autofix
+    * [trymodule](https://github.com/victorb/trymodule) - Test a npm module in a reply from the CLI `npx trymodule MODULE_NAME`
   * Misc.   
     * [Alex](https://github.com/get-alex/alex) - Spellcheck, but for insensitive language (race, religion, gender, etc.)
     * [D3.js](https://d3js.org/) - SVG-based drawing for visualization
