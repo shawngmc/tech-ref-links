@@ -140,6 +140,7 @@ Have a suggestion? Open an issue!
     * [Bluebird](http://bluebirdjs.com/docs/getting-started.html) - An improved Promise implementation with easy wrappers and multi-promise operations
     * [Lodash](https://lodash.com/docs) - Array/Object manipulation
     * [Moment](https://momentjs.com/) - time/date library
+    * [Node-cron](https://www.npmjs.com/package/node-cron) - Easy cron-like job scheduling
     * [Node-fetch](https://www.npmjs.com/package/node-fetch) - A Node.js polyfill to add the browser [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) to node.js - no more changing code, no more request.js, promise native. 
   * Make Progressive Web Apps 
     * [Dexie](http://dexie.org/docs/) - Wrapper for IndexedDB, etc. Used by Vue-IDB
