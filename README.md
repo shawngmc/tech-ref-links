@@ -135,6 +135,28 @@ Have a suggestion? Open an issue!
   * [SSL Config Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/) - Generate very secure SSL configs for web servers
 
 ### Shared
+* VS Code Plugins
+  * Language
+    * [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+    * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+    * [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+    * [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg)
+    * [ShellCheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck)
+    * [NPM](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+    * [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+  * Extra File Formats
+    * [Draw.io](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+    * [CSV to Table](https://marketplace.visualstudio.com/items?itemName=phplasma.csv-to-table)
+    * [SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)
+  * Productivity
+    * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+    * [Rest Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+    * [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+    * [Hex Editor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)
+    * [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
+    * [Remote SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+    * [Paste JSON as code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
+    * [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)
 * Javascript Libraries
   * Flush out the Standard Library
     * [Bluebird](http://bluebirdjs.com/docs/getting-started.html) - An improved Promise implementation with easy wrappers and multi-promise operations
