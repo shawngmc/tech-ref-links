@@ -257,6 +257,9 @@ Have a suggestion? Open an issue!
 ### Hardware
 * [Sandsifter](https://github.com/xoreaxeaxeax/sandsifter) - a tool to scan for processor hidden instuctions and flaws; see [whitepaper](https://github.com/xoreaxeaxeax/sandsifter/blob/master/references/domas_breaking_the_x86_isa_wp.pdf)
 
+### Backup
+* [Tao of Backup](http://www.taobackup.com/) - a lesson on why backup isn't easy
+
 ## Material / Chemical Science
 * 3D Printing
 * Materials
@@ -274,6 +277,8 @@ Have a suggestion? Open an issue!
 * Chemicals
   * [P&G Purifier of Water](https://www.cdc.gov/safewater/flocculant-filtration.html) A chemical packet that - when used with two large buckets and a cloth filter - can purify 10 gallons of water.
   * PolyGlu [demo vid](https://www.youtube.com/watch?v=lu84eDZGFIk) - a soybean-based coagulant to help purify water.
+* Electrical
+  * [Eneloop101](https://eneloop101.com/) - Everything you could ever want to know about Eneloop (arguably the best rechargable AA/AAA batteries)
 
 
 ## Miscellany
