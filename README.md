@@ -285,6 +285,10 @@ Have a suggestion? Open an issue!
 ## Miscellany
 * [Cmd.to](https://cmd.to/) - a web-based CLI for the internet
 * [TLDRLegal](https://tldrlegal.com/) - Software Licenses Explained in Plain English
+* Vintage PC
+  * [Copy.sh v86](https://copy.sh/v86/) - X86 emulator in your browser (QEMU and WebAssembly)
+  * [Macintosh.js](https://github.com/felixrieseberg/macintosh.js) - MacOS8 as an Electron App
+  * [Windows95.js](https://github.com/felixrieseberg/windows95) - Win95 as an Electron App 
 * Geek Humor
   * [/dev/null as a service](https://devnull-as-a-service.com/) - /dev/null in the cloud, containerized, on android
   * [GeekTyper](http://geektyper.com)
