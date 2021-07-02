@@ -210,6 +210,7 @@ Have a suggestion? Open an issue!
 ## OS
 ### Linux
 * [Secure Erase an SSD](https://www.stevenmaude.co.uk/posts/securely-erasing-frozen-hard-disks-with-hdparm)
+* [Modern Unix](https://github.com/ibraheemdev/modern-unix) - improved alternatives for common Linux shell tools
 
 ## Tech Shopping
 * Tools
