@@ -110,6 +110,8 @@ Have a suggestion? Open an issue!
       * [Font Awesome](https://fortawesome.github.io/Font-Awesome/icons/)
       * [Icons8](https://icons8.com/) - Large collection of flat, outline icons
       * [Material Design Icons](https://materialdesignicons.com)
+* HTML
+  * [Web Typography - Designing Tables to be Read](https://alistapart.com/article/web-typography-tables/) - Really great thinkpiece about effective table usage.
 * Browser
   * [Can I Use...](http://caniuse.com/) - Browser capability repository
   * Service Workers
@@ -206,6 +208,8 @@ Have a suggestion? Open an issue!
     * [Lunr](https://lunrjs.com/) - Like Solr in pure JS.
     * [StegCloak](https://github.com/kurolabs/stegcloak) - Hide password-protected messages in non-printable characters!
     * [UUID](https://www.npmjs.com/package/uuid) - Make proper UUIDs - v4 is the most common.
+* Misc.
+  * [Refactoring and Design Patterns](https://refactoring.guru/)
 
 ## OS
 ### Linux
