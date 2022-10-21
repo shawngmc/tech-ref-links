@@ -285,9 +285,14 @@ Have a suggestion? Open an issue!
 * Electrical
   * [Eneloop101](https://eneloop101.com/) - Everything you could ever want to know about Eneloop (arguably the best rechargable AA/AAA batteries)
 
-## Mental Loops
+## Memory and Perception
 * [Aphantasia](https://en.wikipedia.org/wiki/Aphantasia) - The inability to mentally visualize (lack of a mind's eye)
+* [Autostereogram](https://en.wikipedia.org/wiki/Autostereogram) - aka 'Magic Eye' art, a specific type of 2D image that can use noise to present a #d scene
+* [Closed-Eye Visualizations](https://en.wikipedia.org/wiki/Closed-eye_hallucination) - the visual noise and/or images you see with your eyes closed
 * [Eigengrau](https://en.wikipedia.org/wiki/Eigengrau) - The grey you see in the absence of light (it's not black!)
+* [Floaters](https://en.wikipedia.org/wiki/Floater) - Squiggly cell debris seen occasionally in the eye caused by vitreous deterioration
+* [Impossible Color](https://en.wikipedia.org/wiki/Impossible_color) - Why we cannot see a 'reddish-green' color
+* [Pratītyasamutpāda/Dependent origination](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - A Buddhist belief / understanding about how any given thing is the way it is because of things around it - "if this exists, that exists; if this ceases to exist, that also ceases to exist"
 * [Synesthesia](https://en.wikipedia.org/wiki/Synesthesia) - Cross-sensory perception (numbers having 'colors', sounds having 'taste/smell')
 
 
