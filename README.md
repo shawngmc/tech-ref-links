@@ -287,7 +287,8 @@ Have a suggestion? Open an issue!
 
 ## Memory and Perception
 * [Aphantasia](https://en.wikipedia.org/wiki/Aphantasia) - The inability to mentally visualize (lack of a mind's eye)
-* [Autostereogram](https://en.wikipedia.org/wiki/Autostereogram) - aka 'Magic Eye' art, a specific type of 2D image that can use noise to present a #d scene
+* [Autostereogram](https://en.wikipedia.org/wiki/Autostereogram) - aka 'Magic Eye' art, a specific type of 2D image that can use noise to present a 3d scene
+* [Blue field entoptic phenomenon](https://en.wikipedia.org/wiki/Blue_field_entoptic_phenomenon) - small fleck of light in vidion caused by occasional white blood cells
 * [Closed-Eye Visualizations](https://en.wikipedia.org/wiki/Closed-eye_hallucination) - the visual noise and/or images you see with your eyes closed
 * [Eigengrau](https://en.wikipedia.org/wiki/Eigengrau) - The grey you see in the absence of light (it's not black!)
 * [Floaters](https://en.wikipedia.org/wiki/Floater) - Squiggly cell debris seen occasionally in the eye caused by vitreous deterioration
