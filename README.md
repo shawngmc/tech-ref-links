@@ -285,6 +285,11 @@ Have a suggestion? Open an issue!
 * Electrical
   * [Eneloop101](https://eneloop101.com/) - Everything you could ever want to know about Eneloop (arguably the best rechargable AA/AAA batteries)
 
+## Mental Loops
+* [Aphantasia](https://en.wikipedia.org/wiki/Aphantasia) - The inability to mentally visualize (lack of a mind's eye)
+* [Eigengrau](https://en.wikipedia.org/wiki/Eigengrau) - The grey you see in the absence of light (it's not black!)
+* [Synesthesia](https://en.wikipedia.org/wiki/Synesthesia) - Cross-sensory perception (numbers having 'colors', sounds having 'taste/smell')
+
 
 ## Miscellany
 * [Cmd.to](https://cmd.to/) - a web-based CLI for the internet
