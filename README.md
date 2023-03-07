@@ -310,6 +310,7 @@ Have a suggestion? Open an issue!
   * [GeekTyper](http://geektyper.com)
   * [HackerTyper](http://hackertyper.com)
   * [Rockstar](https://github.com/dylanbeattie/rockstar) - Why be a rockstar developer when you can be a Rockstar developer?
+  * [SansBullshitSans](https://www.sansbullshitsans.com/) - Use ligatures to replace buzzwords
 * Geek Bloggers
   * [Jake Archibald](https://jakearchibald.com/) - Web Standard Developer at Google
   * [Coding Horror](http://www.codinghorror.com/) - Blog of Jeff Atwood, developer of StackOverflow
@@ -322,6 +323,7 @@ Have a suggestion? Open an issue!
   * [Outage Analyzer](http://www.outageanalyzer.com/)
   * [Outages.org](http://www.outages.org/)
 * MTG Tools
+  * [Commander Spellbook](https://commanderspellbook.com/find-my-combos/) Find combos and combo ideas for a commander deck
   * [Dawnglare](https://mtg.dawnglare.com/?p=viz) Shows 'money cards' to watch for in each set
   * [MTG Stocks](https://www.mtgstocks.com/) Can show expected value of a pack from a set
   * [What's in Standard?](https://whatsinstandard.com/) Shows current sets in standard and rotation dates
