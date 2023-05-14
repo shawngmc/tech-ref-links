@@ -279,6 +279,8 @@ Have a suggestion? Open an issue!
   * De-lignified wood - removing lignin from wood via hydrogen peroxide makes a material that has the tensile strength of steel, can be transparent, and has impressive heat-management properties
     * [Heat Management](https://www.newscientist.com/article/2204442-high-tech-wood-could-keep-homes-cool-by-reflecting-the-suns-rays/)
     * [Transparency](https://www.newscientist.com/article/2198126-windows-made-of-transparent-wood-could-help-keep-buildings-warm/)
+* Adhesives
+  * [VHB Tape](https://multimedia.3m.com/mws/media/764998O/iatd-product-info.pdf) - Permanent, foam-core acrylic adhesive tape. Most is conformal, though some firm variants exist. Very strong, long lasting and weatherproof. See [common data sheet](https://multimedia.3m.com/mws/media/1235572O/uv-primer-technical-data-sheet-canada-english-pdf.pdf), [specialty data sheet](https://multimedia.3m.com/mws/media/1235574O/specialty-tapes-vhb-technical-data-sheet.pdf), and the [weird 9448A variant that seems to get shipped with electronics because it's cheap?](https://technicaldatasheets.3m.com/en_US?pif=002320). 
 * Chemicals
   * [P&G Purifier of Water](https://www.cdc.gov/safewater/flocculant-filtration.html) A chemical packet that - when used with two large buckets and a cloth filter - can purify 10 gallons of water.
   * PolyGlu [demo vid](https://www.youtube.com/watch?v=lu84eDZGFIk) - a soybean-based coagulant to help purify water.
