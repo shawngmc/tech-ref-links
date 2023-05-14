@@ -208,6 +208,14 @@ Have a suggestion? Open an issue!
     * [Lunr](https://lunrjs.com/) - Like Solr in pure JS.
     * [StegCloak](https://github.com/kurolabs/stegcloak) - Hide password-protected messages in non-printable characters!
     * [UUID](https://www.npmjs.com/package/uuid) - Make proper UUIDs - v4 is the most common.
+* Python Libraries 
+  * Make CLI Tools
+    * [click](https://click.palletsprojects.com/en/8.1.x/) - “Command Line Interface Creation Kit” - Allows building keyword-style CLIs easily (think awscli, etc.)
+    * [click-log](https://click-log.readthedocs.io/en/stable/) - Make logging in click apps trivial
+    * [rich](https://github.com/Textualize/rich) - Used for pretty output, including coloring, non-ASCII chars in supported terminals, Markdown conversion and more
+    * [texttable](https://github.com/foutaise/texttable/) - Simple text table generator
+  * Web
+    * [Scrapy](https://scrapy.org/) - Scrape from APIs and web pages 
 * Misc.
   * [Refactoring and Design Patterns](https://refactoring.guru/)
 
