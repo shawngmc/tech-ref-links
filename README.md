@@ -312,8 +312,10 @@ Have a suggestion? Open an issue!
 * [TLDRLegal](https://tldrlegal.com/) - Software Licenses Explained in Plain English
 * Vintage PC
   * [Copy.sh v86](https://copy.sh/v86/) - X86 emulator in your browser (QEMU and WebAssembly)
+  * [Old Version](http://www.oldversion.com/) - Installers for old versions of common software
   * [Macintosh.js](https://github.com/felixrieseberg/macintosh.js) - MacOS8 as an Electron App
-  * [Windows95.js](https://github.com/felixrieseberg/windows95) - Win95 as an Electron App 
+  * [Windows95.js](https://github.com/felixrieseberg/windows95) - Win95 as an Electron App
+  * [Windows Update Restored](http://windowsupdaterestored.com/) - Windows Update archive for old OSes
   * [WinWorld](https://winworldpc.com/library/operating-systems) - Historical collection of Operating Systems (not just windows!)
 * Geek Humor
   * [/dev/null as a service](https://devnull-as-a-service.com/) - /dev/null in the cloud, containerized, on android
