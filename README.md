@@ -324,6 +324,12 @@ Have a suggestion? Open an issue!
   * [HackerTyper](http://hackertyper.com)
   * [Rockstar](https://github.com/dylanbeattie/rockstar) - Why be a rockstar developer when you can be a Rockstar developer?
   * [SansBullshitSans](https://www.sansbullshitsans.com/) - Use ligatures to replace buzzwords
+  * Encabulation
+    * [Original Turbo Encabulator](https://www.youtube.com/watch?v=Ac7G7xOG2Ag) - Bud Haggert
+    * [Chrysler Turbo Encabulator](https://www.youtube.com/watch?v=MXW0bx_Ooq4) - Bud Haggert and Mike Kraft
+    * [Rockwell Retro Encabulator](https://www.youtube.com/watch?v=RXJKdh1KZ0w) - Mike Kraft
+    * [SANS ICS HyperEncabulator](https://www.youtube.com/watch?v=5nKk_-Lvhzo) - Mike Kraft returns for aa cybersecurity version
+    * [Interview with Mike Kraft](https://www.plcdev.com/an_interview_with_mike_kraft)
 * Geek Bloggers
   * [Jake Archibald](https://jakearchibald.com/) - Web Standard Developer at Google
   * [Coding Horror](http://www.codinghorror.com/) - Blog of Jeff Atwood, developer of StackOverflow
